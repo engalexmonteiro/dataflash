@@ -65,7 +65,7 @@ AsyncLabs 01/10/2011 Clean up
 
 *****************************************************************************/
 
-#include "WProgram.h"
+#include <Arduino.h>
 #include <avr/pgmspace.h>
 
 //Dataflash commands

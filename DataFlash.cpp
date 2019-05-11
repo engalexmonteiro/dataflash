@@ -83,7 +83,7 @@ AsyncLabs 01/10/2011 Clean up
 
 *****************************************************************************/
 
-#include "dataflash.h"
+#include "DataFlash.h"
 
 // configuration for the Atmel AT45DB161D device
 #define PAGE_BITS    10

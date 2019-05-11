@@ -39,9 +39,9 @@ AsyncLabs 01/10/2011 Clean up
 void setup()
 {
 	Serial.begin(115200);
-	Serial.print('h',BYTE);
-	Serial.print('i',BYTE);
-	Serial.print('\n',BYTE);
+	Serial.write('h');
+	Serial.write'i');
+	Serial.write('\n');
 	
 	/* using pin D10 as DataFlash slave select */
 	dflash.init(10);
