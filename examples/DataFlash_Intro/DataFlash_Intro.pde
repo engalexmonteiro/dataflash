@@ -40,7 +40,7 @@ void setup()
 {
 	Serial.begin(115200);
 	Serial.write('h');
-	Serial.write'i');
+	Serial.write('i');
 	Serial.write('\n');
 	
 	/* using pin D10 as DataFlash slave select */

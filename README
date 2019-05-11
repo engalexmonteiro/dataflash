@@ -4,13 +4,16 @@ Async Labs Inc.
 www.asynclabs.com
 
 -------------------------------------------------------------------------------
-Version 1.0.0
+Version 2.0.0
 -------------------------------------------------------------------------------
 Features:
-- Provides a basic set of APIs to access the Atmel AT45DB161D DataFlash device
-  on the FlashShield 1.0
-- Provides a sample application which demonstrates the use of the DataFlash
+- Version updated to Arduino 1.8.9
+
+- Fixed sample application which demonstrates the use of the DataFlash
   library to write, store and read data on the DataFlash device
+
+By: Alex Monteiro 
+email: alex.monteiro@icomp.ufam.edu.br
 
 Known issues:
 None
